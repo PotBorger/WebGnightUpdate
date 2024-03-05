@@ -1,0 +1,68 @@
+
+*{
+    font-family: 'Mooli', sans-serif;
+}
+.image-container{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.audio-container{
+  text-align: center;
+  color: aliceblue;
+  }
+.note{
+    text-align: center;
+}
+.note h1{
+    color: aliceblue;
+}
+
+#header{
+
+    background-image: url("./_DSC2741.jpg");
+    height: 300px;
+    background-size: cover;
+    border: solid;
+    align-items: center;
+    text-align: center;
+    color:aliceblue;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-bottom: 0px;
+
+}
+
+#header p{
+
+    padding-top: 100px;
+    padding-bottom: 0px;
+    color: aliceblue;
+    background-color: transparent;
+}
+
+.button-container{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    
+
+}
+h1{
+  font-family: "Rubik Bubbles", system-ui;
+  font-weight: 400;
+}
+
+.btn {   font-family: "Rubik Bubbles", system-ui;
+}  .btn:hover .btn-slide-show-text1 {  margin-left: 65px;}  
+.btn-moving-gradient {  height: 30px;  width: 180px;  font-size: 13px;  font-weight: 400;  color: rgb(255, 255, 255);  cursor: pointer;  border: none;  background-size: 300% 100%;  border-radius: 30px;}  .btn-moving-gradient:hover {  transition: all 0.5s ease-in-out 0s;  background-position: 100% 0px;}  .btn-moving-gradient--purple {  background-image: linear-gradient(90deg, rgb(62, 53, 141), rgb(135, 53, 141), rgb(106, 53, 141), rgb(61, 52, 139));  box-shadow: rgb(135, 53, 141) 0px 4px 15px 0px;}  
+
+
+  

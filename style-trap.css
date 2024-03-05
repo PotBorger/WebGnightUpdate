@@ -1,0 +1,39 @@
+.cat-rescue{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-image: url("./flame-border-background-black-realistic-fire-image_53876-153392.avif");
+    height: 420px;
+    align-items: center;
+    
+
+}
+body{
+    background-color: #9c1631;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-family: 'Mooli', sans-serif;
+    
+
+}
+
+button{
+    display: flex;
+    border-radius: 30%;
+    height: 120px;
+    align-items: center;
+    background-color: #e66b71;
+    font-family: 'Mooli', sans-serif;
+    color: antiquewhite;
+    
+    
+
+}
+img{
+    align-self: center;
+    height: 420px;
+    width: fit-content;
+}
